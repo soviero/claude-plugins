@@ -1,7 +1,7 @@
 {
   "name": "eesier",
   "version": "1.0.0",
-  "description": "Manage your Eesier autonomous lead prospecting account from Claude Code. Bundles the Eesier MCP server (49 tools) and the operator skill.",
+  "description": "Your AI agent becomes a full-time SDR. Describe your business, then let Claude find matching B2B prospects, write personalized cold emails to each one, follow up automatically, and surface replies — while you keep building. Includes campaign management, real-time prospecting reports, Calendly booking integration, and a knowledge base your agent can query. Powered by Eesier (eesier.com).",
   "author": {
     "name": "Eesier",
     "email": "rodrigo@eesier.com",
@@ -10,5 +10,5 @@
   "homepage": "https://eesier.com",
   "repository": "https://github.com/soviero/claude-plugins",
   "license": "MIT",
-  "keywords": ["sales", "prospecting", "leads", "b2b", "outbound", "automation"]
+  "keywords": ["sales", "cold-email", "ai-sdr", "lead-generation", "prospecting", "b2b", "outbound", "automation", "email-marketing", "campaigns", "sales-development"]
 }

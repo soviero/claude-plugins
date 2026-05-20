@@ -4,16 +4,16 @@
     "name": "Eesier",
     "url": "https://eesier.com"
   },
-  "description": "Eesier autonomous B2B lead prospecting — connect Claude Code to your Eesier account and manage prospecting, campaigns, leads, and reports from your terminal.",
+  "description": "You ship product. Eesier ships customers. An autonomous AI SDR for Claude Code — finds B2B prospects matching your ICP, writes personalized cold emails, follows up, and handles replies. 24/7, on autopilot.",
   "plugins": [
     {
       "name": "eesier",
       "source": "./plugins/eesier",
       "version": "1.0.0",
-      "description": "Manage Eesier lead prospecting from Claude Code: 49 MCP tools + onboarding skill + slash commands.",
+      "description": "Hire an AI Sales Development Rep inside Claude Code. Describe your business once → it finds matching B2B leads, writes personalized cold emails, follows up, and routes replies. Multi-campaign, multi-market, multilingual.",
       "homepage": "https://eesier.com",
       "category": "sales",
-      "tags": ["sales", "prospecting", "leads", "b2b", "automation", "mcp"]
+      "tags": ["sales", "cold-email", "ai-sdr", "lead-generation", "prospecting", "b2b", "outbound", "automation", "email-marketing", "campaigns", "sales-development"]
     }
   ]
 }
