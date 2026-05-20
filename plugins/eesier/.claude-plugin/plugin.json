@@ -1,0 +1,14 @@
+{
+  "name": "eesier",
+  "version": "1.0.0",
+  "description": "Manage your Eesier autonomous lead prospecting account from Claude Code. Bundles the Eesier MCP server (49 tools), the operator skill, and slash commands for common workflows.",
+  "author": {
+    "name": "Eesier",
+    "email": "rodrigo@eesier.com",
+    "url": "https://eesier.com"
+  },
+  "homepage": "https://eesier.com",
+  "repository": "https://github.com/eesier/claude-plugins",
+  "license": "MIT",
+  "keywords": ["sales", "prospecting", "leads", "b2b", "outbound", "automation"]
+}

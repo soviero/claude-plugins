@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "eesier": {
+      "type": "http",
+      "url": "https://mcp.eesier.com/",
+      "headers": {
+        "Authorization": "Bearer ${EESIER_MCP_TOKEN}"
+      }
+    }
+  }
+}

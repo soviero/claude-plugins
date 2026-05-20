@@ -1,0 +1,19 @@
+{
+  "name": "eesier",
+  "owner": {
+    "name": "Eesier",
+    "url": "https://eesier.com"
+  },
+  "description": "Eesier autonomous B2B lead prospecting — connect Claude Code to your Eesier account and manage prospecting, campaigns, leads, and reports from your terminal.",
+  "plugins": [
+    {
+      "name": "eesier",
+      "source": "./plugins/eesier",
+      "version": "1.0.0",
+      "description": "Manage Eesier lead prospecting from Claude Code: 49 MCP tools + onboarding skill + slash commands.",
+      "homepage": "https://eesier.com",
+      "category": "sales",
+      "tags": ["sales", "prospecting", "leads", "b2b", "automation", "mcp"]
+    }
+  ]
+}
